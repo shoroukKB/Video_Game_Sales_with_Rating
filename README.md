@@ -48,3 +48,5 @@ Jupyter notebook libraries:
 Machine learining algorithm:
 * Logistic regression
 
+# Contact information
+* Email: shuruq.batrah@gmail.com
