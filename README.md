@@ -4,6 +4,8 @@
 This project reviews a set of video game sales data rated by the ESRB for the purpose of monitoring and age-appropriate game content. The ESRB is officially recognized, implemented and used in the three main countries of North America: Canada, Mexico, and the United States. The Ai model will be built to predict the appropriate age rating for each game based on the data collected.
 
 # Data Description
+* The Dataset contains 16 features and 16720 instances.
+
  | Feature       | Description                                                                                                                                           |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Name          | Name of the game                                                                                                                                      |
