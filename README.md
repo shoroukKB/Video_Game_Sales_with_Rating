@@ -26,7 +26,7 @@ This project reviews a set of video game sales data rated by the ESRB for the pu
 * To get the data sorce click [here](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 * Target feature is Rating
 
-# Question/need:
+# Question and need
  What is the framing question of your analysis, or the purpose of the model/system you plan to build?
   * Bulding a model that predict the rating of the game.
   * Find the most important features that effect the predection.
@@ -48,5 +48,5 @@ Jupyter notebook libraries:
 Machine learining algorithm:
 * Logistic regression
 
-# Contact information
+# Contact info
 * Email: shuruq.batrah@gmail.com
